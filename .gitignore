@@ -1,0 +1,5 @@
+*.wgt
+.DS_Store
+.settings
+lib
+.sign
